@@ -11,3 +11,7 @@ A small web app to create graphs readable by botech-standard-utilities
 
 # What it does
 Specify the nodes you want as comma separated values e.g. a,b,c,d
+On the next table, mark the cells where the row connects to the column
+On the next table, specify any nodes that should be shared states
+    For example, if you had smoker and drinker, there might be people who are both
+Click process, and this will generate a JSON object in the console with the nodes and links
